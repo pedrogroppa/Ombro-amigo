@@ -1,2 +1,2 @@
 # Ombro-amigo
-site para que homens com problemas conversem com outros homens em busca de ajuda e curas emocionais.
+site para que pessoas com problemas conversem com outras pessoas em busca de ajuda e curas emocionais, sendo elas profissionais ou não.
