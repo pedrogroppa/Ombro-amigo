@@ -1,0 +1,49 @@
+body {
+	background: #F0FFFF
+}
+
+#banner {
+	width: 100%
+}
+
+.titulo-principal {
+	padding-left: 30px;
+	font-size: 2em;
+	margin: 0 0 1em;
+}
+
+.tiulo-centralizado {
+	text-align: center;
+
+
+p {
+	text-align: center;
+}
+
+.itens {
+	font-style: italic;
+}
+.juntos {
+	background: #EEE9E9
+	padding: 20px;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%
+}
+.juntos {
+	background: #ffffff
+}
+.imagempoço {
+	width: 50%
+}
+/* css da página principal*/
+.banner {
+	width: 100% 
+}
+.container {
+	display: flex;
+}
