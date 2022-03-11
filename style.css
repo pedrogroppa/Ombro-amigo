@@ -1,49 +1,53 @@
 body {
-	background: #F0FFFF
+  background: #f0ffff;
 }
 
 #banner {
-	width: 100%
+  width: 100%;
 }
 
 .titulo-principal {
-	padding-left: 30px;
-	font-size: 2em;
-	margin: 0 0 1em;
+  padding-left: 30px;
+  font-size: 2em;
+  margin: 0 0 1em;
 }
 
 .tiulo-centralizado {
-	text-align: center;
-
+  text-align: center;
+}
 
 p {
-	text-align: center;
+  text-align: center;
 }
 
 .itens {
-	font-style: italic;
+  font-style: italic;
 }
+
 .juntos {
-	background: #EEE9E9
-	padding: 20px;
+  background: #eee9e9;
+
+  padding: 20px;
 }
 
 ul {
-	display: inline-block;
-	vertical-align: top;
-	width: 20%;
-	margin-right: 15%
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
 }
-.juntos {
-	background: #ffffff
+
+.imagempoco {
+  width: 50%;
+  height: 50%;
 }
-.imagempoço {
-	width: 50%
-}
+
 /* css da página principal*/
+
 .banner {
-	width: 100% 
+  width: 10%;
 }
+
 .container {
-	display: flex;
+  display: flex;
 }
